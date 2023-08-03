@@ -1,3 +1,3 @@
 # Task-2--Prediction-using-Unsupervised-ML-
 
-Problem Statement - From the give 'iris' dataset predict the optimum number of clusters and represent it visually.
+Data Science and Business Analytics Task-1 (Predict the percentage of an student based on the no. of study hours) Using simple linear regression model.
